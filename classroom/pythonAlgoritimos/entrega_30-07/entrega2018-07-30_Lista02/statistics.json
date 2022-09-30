@@ -1,0 +1,67 @@
+[
+    {
+        "percentual": "3.296%",
+        "fase_operacao": "UNKNOWN",
+        "ocorrencias": 171
+    },
+    {
+        "percentual": "7.575%",
+        "fase_operacao": "MANEUVERING",
+        "ocorrencias": 393
+    },
+    {
+        "percentual": "8.635%",
+        "fase_operacao": "APPROACH",
+        "ocorrencias": 448
+    },
+    {
+        "percentual": "29.202%",
+        "fase_operacao": "LANDING",
+        "ocorrencias": 1515
+    },
+    {
+        "percentual": "23.921%",
+        "fase_operacao": "EN ROUTE",
+        "ocorrencias": 1241
+    },
+    {
+        "percentual": "15.459%",
+        "fase_operacao": "TAKEOFF",
+        "ocorrencias": 802
+    },
+    {
+        "percentual": "8.443%",
+        "fase_operacao": "TAXI",
+        "ocorrencias": 438
+    },
+    {
+        "percentual": "3.084%",
+        "fase_operacao": "STANDING",
+        "ocorrencias": 160
+    },
+    {
+        "percentual": "0.096%",
+        "fase_operacao": "PUSHBACK/TOWING",
+        "ocorrencias": 5
+    },
+    {
+        "percentual": "0.019%",
+        "fase_operacao": "UNCONTROLLED DESCENT",
+        "ocorrencias": 1
+    },
+    {
+        "percentual": "0.0%",
+        "fase_operacao": "NOT APLICABLE",
+        "ocorrencias": 0
+    },
+    {
+        "percentual": "0.019%",
+        "fase_operacao": "EMERGENCY DESCENT",
+        "ocorrencias": 1
+    },
+    {
+        "percentual": "0.0%",
+        "fase_operacao": "***",
+        "ocorrencias": 0
+    }
+]
